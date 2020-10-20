@@ -3,7 +3,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
      <?php include 'footer_contactus.php';?>
@@ -13,7 +12,6 @@
      <script src="./js/footer_contactus.js"></script>
      <script type="./js/login_form_validation.js"></script>
 </head>
-
 <body>
     <div id="wrapper">
         <!--Navigation bar   header-->
